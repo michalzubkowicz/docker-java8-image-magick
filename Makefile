@@ -1,4 +1,4 @@
-NAME = michalzubkowicz/docker-java8-image-magick
+NAME = michalzubkowicz/java8-image-magick
 VERSION = latest
 
 .PHONY: all build release
