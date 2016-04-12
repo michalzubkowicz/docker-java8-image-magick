@@ -1,4 +1,4 @@
-NAME = vixns/java8
+NAME = michalzubkowicz/docker-java8-image-magick
 VERSION = latest
 
 .PHONY: all build release
