@@ -1,7 +1,7 @@
 # based on Martijn Koster's "https://github.com/makuk66/docker-oracle-java7"
 # based on Stéphane Cottin 
 
-FROM vixns/docker-java8
+FROM vixns/java8
 MAINTAINER Michał Zubkowicz <michal.zubkowicz@gmail.com>
 
 RUN \
